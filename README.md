@@ -15,3 +15,13 @@
 
 #### Add Detail Anime
 ![Dashboard](https://github.com/Funinki/funinki-showcase/blob/master/chrome_UYXKUycdCF.png?raw=true)
+
+
+### About Funinki Project
+Handy web app to track (manually) our anime watchlist.
+
+This feature is simple, i am just learn about how to use graphql query in curl php.
+
+This is can not be commercial, but i plan to create wordpress plug-in to fetch anime information.
+
+However this app isn't good enough, and i recommend to use https://anilist.co or https://myanimelist.net with Taiga Desktop App to track your watchlist correctly.
